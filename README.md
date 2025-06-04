@@ -4,7 +4,7 @@ hi
 
 To use the program, run gui.py
 
-In the future, I'll add the ability to use .txt files to add new motivational messages you get
-and the option to set the likelihood that you will get them
+todo:
+- add capability to use .txt files to add/modify the motivational messages, and modify the option to set the likelihood that you will get each one
 
-That's all, pls enjoy
+enjoy
